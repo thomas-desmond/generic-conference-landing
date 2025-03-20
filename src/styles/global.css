@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+    --color-cloudflare: #f6821f;
+  }
